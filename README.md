@@ -1,4 +1,4 @@
-# PHP RabbitMQ - Send and Receive Messages within few lines using Ecotone
+# PHP RabbitMQ - Send and Receive Messages with few lines using Ecotone
 Quickly connect, send and receive messages from RabbitMQ using [Ecotone Framework](https://github.com/ecotoneframework/ecotone)
 
 ## Consumer
