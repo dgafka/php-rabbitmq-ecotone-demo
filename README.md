@@ -1,2 +1,18 @@
-# php-rabbitmq-ecotone-demo
-Quickly connect and send and receive messages from RabbitMQ
+# PHP RabbitMQ - Send and Receive Messages within few lines using Ecotone
+Quickly connect, send and receive messages from RabbitMQ using [Ecotone Framework](https://github.com/ecotoneframework/ecotone)
+
+## Publisher
+
+Want to send JSON/TEXT go ahead.  
+Want to send object/array, Ecotone will serialize it and then send it for you :)  
+
+## Consumer
+Want to receive JSON, just type for string.
+Want to receive object, just type for object. 
+Messages are automatically converted to the desired type. 
+
+
+## Run example
+
+- composer install
+- php run_example.php
